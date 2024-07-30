@@ -1,8 +1,7 @@
- 👋 Hey there I am Alli Mahesh welcome to my Git Profile
+ - 👋 Hey there, I 'm Alli Mahesh welcome to my Git Profile
   
-- 👀 I’m interested in Fullstack Development and Machine Learning
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me maheshalli2305@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact:  I am an excellent cook
+-  👀 I’m interested in Fullstack Development
+-  👨‍💻 Explore more about me at my portfolio : https://maheshalli28.github.io/Portfolio/
+-  📫 How to reach me maheshalli2305@gmail.com
+-  😄 Pronouns: He/Him
+-  ⚡ Fun fact:  I am an excellent cook
