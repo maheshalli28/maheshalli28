@@ -7,5 +7,5 @@
 
 ## 📫 Reach Me
 ###  Portfolio  : https://www.maheshalli.me
-###  LinkdIn    : https://www.linkdin.in/maheshalli
+###  LinkdIn    :[ https://www.linkdin.in/maheshalli](https://www.linkedin.com/in/alli-mahesh)
 ###  Gmail      : maheshalli2305@gmail.com
